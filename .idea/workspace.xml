@@ -1,28 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a818281-350b-4d6d-b00d-85ab7b7d175a" name="Default Changelist" comment="" />
+    <list default="true" id="7a818281-350b-4d6d-b00d-85ab7b7d175a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Arrays/2d-array-English.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/ArrayManipulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/ArrayManipulationFast.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/MinimumSwaps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/crush-English.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/ctci-array-left-rotation-English.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/minimum-swaps-2-English.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/new-year-chaos-English.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewYearChaosMergeSort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/2DArrayDS.txt" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Arrays/2DArrayDS.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-              <folding>
-                <element signature="e#16#27#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="FavoritesManager">
+    <favorites_list name="HackerRankTasks" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -34,55 +32,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/CountingValleys.py" />
-        <option value="$PROJECT_DIR$/RepeatedString.py" />
-        <option value="$PROJECT_DIR$/CountClouds.py" />
-        <option value="$PROJECT_DIR$/SockMerchant.py" />
-        <option value="$PROJECT_DIR$/Arrays/2DArrayDS.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="15" />
-    <option name="y" value="30" />
-    <option name="width" value="1890" />
-    <option name="height" value="960" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="HackerRankTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HackerRankTasks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HackerRankTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HackerRankTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="Arrays" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HackerRankTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-            </path>
-            <path>
-              <item name="HackerRankTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -248,49 +199,9 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <layout>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2494043" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="2" weight="0.32978722" />
-      <window_info anchor="bottom" id="Message" order="3" />
-      <window_info anchor="bottom" id="Find" order="4" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="5" visible="true" weight="0.32978722" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.32978722" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" weight="0.32978722" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Solve 2DArrayDS problem" />
     <option name="LAST_COMMIT_MESSAGE" value="Solve 2DArrayDS problem" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CountingValleys.py" />
-    <entry file="file://$PROJECT_DIR$/RepeatedString.py" />
-    <entry file="file://$PROJECT_DIR$/CountClouds.py" />
-    <entry file="file://$PROJECT_DIR$/SockMerchant.py" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.cfg">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays/2DArrayDS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-          <folding>
-            <element signature="e#16#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
