@@ -11,18 +11,15 @@ def minimumSwaps(arr):
         swaps_cnt = 0
         i = 0
         n = len(arr)
-        arr = [value - 1 for value in arr]
-        q = []
-        for j, value in enumerate(arr):
-            q.append(value - j)
+        q = [value - 1 for value in arr]
         while i < n:
-            if q[i] == 0:
+            if q[i] - i == 0:
                 i = i + 1
                 continue
             else:
-                x = q[i + q[i]]
-                q[i + q[i]] = 0
-                q[i] = x + q[i]
+                x = q[i]
+                q[i] = q[x]
+                q[x] = x
                 swaps_cnt = swaps_cnt + 1
 
         return swaps_cnt
