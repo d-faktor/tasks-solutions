@@ -1,6 +1,4 @@
-#!/bin/python3
-# Complete the minimumBribes function below.
-def minimumBribes(q, n):
+def minimum_bribes(q, n):
     bribes_cnt = 0
     q = [value - 1 for value in q]
     for i, value in enumerate(q):
@@ -13,6 +11,7 @@ def minimumBribes(q, n):
                     bribes_cnt = bribes_cnt + 1
     return bribes_cnt
 
+
 if __name__ == '__main__':
     t = int(input())
     res = []
@@ -21,7 +20,7 @@ if __name__ == '__main__':
 
         q = list(map(int, input().rstrip().split()))
 
-        res.append(minimumBribes(q, n))
+        res.append(minimum_bribes(q, n))
 
     for bribe in res:
         if bribe == -1:

@@ -1,13 +1,4 @@
-#!/bin/python3
-
-import math
-import os
-import random
-import re
-import sys
-
-# Complete the arrayManipulation function below.
-def arrayManipulation(queries):
+def array_manipulation(queries):
     sum = 0
     max_value = 0
     operations = queries
@@ -17,6 +8,7 @@ def arrayManipulation(queries):
         if sum > max_value:
             max_value = sum
     return max_value
+
 
 if __name__ == '__main__':
     fh = open('Queries.txt', 'r')
@@ -32,7 +24,7 @@ if __name__ == '__main__':
         queries.append((int(query[0]), int(query[2])))
         queries.append((int(query[1]) + 1, -1 * int(query[2])))
 
-result = arrayManipulation(queries)
+result = array_manipulation(queries)
 print(result)
     ##fptr.write(str(max(result)) + '\n')
    ## print(max(result))

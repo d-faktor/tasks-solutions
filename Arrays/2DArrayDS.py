@@ -1,13 +1,6 @@
-#!/bin/python3
-
-import math
-import os
-import random
-import re
 import sys
 
-# Complete the hourglassSum function below.
-def hourglassSum(arr):
+def hourglass_sum(arr):
     sum = []
     for i in range(4):
         for j in range(4):
@@ -17,24 +10,15 @@ def hourglassSum(arr):
             sum.append(val)
     return max(sum)
 
-if __name__ == 'main__':
-    fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
+if __name__ == '__main__':
     arr = []
-
     for _ in range(6):
-        arr.append(list(map(int, input().rstrip().split())))
-
-    result = hourglassSum(arr)
-
-    fptr.write(str(result) + '\n')
-
-    fptr.close()
-else:
-    arr = []
-
-    for _ in range(6):
-        arr.append(list(map(int, input("Line: ").rstrip().split())))
-
-    result = hourglassSum(arr)
+        new_line = list(map(int, input("Line: ").rstrip().split()))
+        if len(new_line) == 6:
+            arr.append(new_line)
+        else:
+            print("It's wrong line(to much or to many elements)")
+            sys.exit()
+    result = hourglass_sum(arr)
     print(result)
